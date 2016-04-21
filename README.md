@@ -2,4 +2,4 @@
 First repo on firebase
 
 
-(Quick start notes) [https://www.firebase.com/docs/web/guide/]
+[Quick start notes] (https://www.firebase.com/docs/web/guide/)
